@@ -1,7 +1,7 @@
 [![Welcome to Amal-dx Repo](https://readme-typing-svg.herokuapp.com?color=%231ABDF7&lines=WELCOME+TO+AMAL-DX+REPO)](https://git.io/typing-svg)
 ## 📢Introduce myself
 
-- 🙂I'm Amal
+- 🙂I'm Achu
 - 🚩I'm a beginner in this field
 - 📍From pathripala,palakkad,Kerala,🇮🇳
 - 🏫Students
@@ -50,7 +50,7 @@
  
  ##  Developer
  👤  **Amal-dx**
-* WhatsApp : https://wa.me/917736308760
+* WhatsApp : https://wa.me/919207253061
 
 
 
